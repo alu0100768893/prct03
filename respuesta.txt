@@ -1,1 +1,3 @@
-Diferencias entre el interprete interactivo y el de ruby
+21-A priori, la única diferencia apreciable es que el intérprete interactivo nos permite seguir ejecutando sentencias, como es de esperar. A parte de esto, no aprecio mayor diferencia.
+
+
