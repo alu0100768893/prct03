@@ -1,0 +1,1 @@
+Diferencias entre el interprete interactivo y el de ruby
